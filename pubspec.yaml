@@ -1,6 +1,6 @@
 name: flutter_user_identity
 description: "Fetch unique user identity from Android and iOS."
-version: 0.1.0
+version: 0.2.0
 repository: https://github.com/zaikir/flutter_user_identity
 
 environment:
